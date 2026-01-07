@@ -282,8 +282,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 **Your Name**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [@DevaAnanda](https://github.com/DevaAnanda)
+- Email: devapradana94@gmail.com
 
 ---
 
